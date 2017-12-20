@@ -1,5 +1,5 @@
 # CallerInfoFetcher
-A custom API for ![CallerInfo](https://github.com/xdtianyu/CallerInfo), using data from ![360 Search](https://www.so.com).
+A custom API for [CallerInfo](https://github.com/xdtianyu/CallerInfo), using data from [360 Search](https://www.so.com).
 
 ## Usage
 Deploy to a webserver and access it.    
